@@ -17,9 +17,7 @@
       "isRead": false,
       "notifyEnabled": false
     }
-  ]
-}
-{
+    {
   "id": "news-002",
   "title": "測試新品第二筆",
   "summary": "這是第二筆 GitHub 新品測試。",
@@ -35,4 +33,7 @@
   "officialUrl": "",
   "isRead": false,
   "notifyEnabled": false
+   }
+        ]
 }
+
