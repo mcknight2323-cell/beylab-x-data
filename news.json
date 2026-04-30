@@ -1,0 +1,21 @@
+{
+  "news": [
+    {
+      "id": "news-001",
+      "title": "Beyblade X App 遠端資料測試",
+      "summary": "這是 GitHub JSON 串接測試資料。",
+      "content": "如果 App 能讀到這筆資料，代表 GitHub 遠端新聞資料串接成功。",
+      "date": "2026-04-30",
+      "category": "測試",
+      "imageUrl": "",
+      "source": "GitHub",
+      "productCode": "",
+      "releaseDate": "2026-04-30",
+      "brand": "TAKARA TOMY",
+      "region": "JP",
+      "officialUrl": "",
+      "isRead": false,
+      "notifyEnabled": false
+    }
+  ]
+}
