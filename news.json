@@ -33,7 +33,24 @@
   "officialUrl": "",
   "isRead": false,
   "notifyEnabled": false
-   }
+    },
+    {
+  "id": "news-004",
+  "title": "紅點測試第四筆新品",
+  "summary": "測試 App 開啟自動跳提示與紅點。",
+  "content": "如果 App 重開後看到提示與紅點，代表功能正常。",
+  "date": "2026-04-30",
+  "category": "新品",
+  "imageUrl": "",
+  "source": "GitHub",
+  "productCode": "TEST-004",
+  "releaseDate": "2026-04-30",
+  "brand": "TAKARA TOMY",
+  "region": "JP",
+  "officialUrl": "",
+  "isRead": false,
+  "notifyEnabled": false
+}
         ]
 }
 
