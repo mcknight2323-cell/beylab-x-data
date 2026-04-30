@@ -19,3 +19,20 @@
     }
   ]
 }
+{
+  "id": "news-002",
+  "title": "測試新品第二筆",
+  "summary": "這是第二筆 GitHub 新品測試。",
+  "content": "如果 App 偵測到這筆，代表新品檢查功能正常。",
+  "date": "2026-04-30",
+  "category": "新品",
+  "imageUrl": "",
+  "source": "GitHub",
+  "productCode": "TEST-002",
+  "releaseDate": "2026-04-30",
+  "brand": "TAKARA TOMY",
+  "region": "JP",
+  "officialUrl": "",
+  "isRead": false,
+  "notifyEnabled": false
+}
