@@ -2,7 +2,7 @@
   "news": [
     {
       "id": "news-001",
-      "title": "Beyblade X App 遠端資料測試",
+      "title": "【遠端測試】 Beyblade X App 遠端資料測試",
       "summary": "這是 GitHub JSON 串接測試資料。",
       "content": "如果 App 能讀到這筆資料，代表 GitHub 遠端新聞資料串接成功。",
       "date": "2026-04-30",
